@@ -1,1 +1,5 @@
+# Google AdMob
 google.com, pub-1802838855501864, DIRECT, f08c47fec0942fa0
+
+# Unity Ads
+unity3d.com, 800084193, DIRECT
