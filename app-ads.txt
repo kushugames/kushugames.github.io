@@ -3,3 +3,6 @@ google.com, pub-1802838855501864, DIRECT, f08c47fec0942fa0
 
 # Unity Ads
 unity3d.com, 800084193, DIRECT
+
+# Inmobi Ads
+inmobi.com, 922e627fa75541ad85223e74b2beae6c, DIRECT
